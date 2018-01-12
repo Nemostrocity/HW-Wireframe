@@ -42,30 +42,29 @@ background: grey;
 color: white;
 width: 620px;
 height: 210px;
-padding-top: 3px;
+/*padding-top: 3px;*/
 }
 
 .headings {
-position: relative;
-top: 30px;
+position: absolute;
+top: 60px;
 left: 15px;
 background: white;
-padding-top: 5px;
 width: 590px;
-height: 40px;
+height: 50px;
 }
 
 p {
-position: relative;
-top: 30px;
+position: absolute;
+top: 110px;
 left: 15px;
 background: white;
 width: 590px;
-height: 40px;
+height: 50px;
 }
 
 aside {
-position: absolute;
+position: fixed;
 top: 155px;
 right: 100px;
 float: right;
