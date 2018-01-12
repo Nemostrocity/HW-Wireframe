@@ -1,0 +1,84 @@
+* {
+font-family: arial, sans;
+font-size: 18px;
+color: grey;
+}
+
+body {
+background: grey;
+text-align: center;
+}
+
+header {
+background: white;
+width:960px;
+height: 60px;
+margin-left: 10%;
+margin-bottom: 10px;
+text-align: center;
+}
+
+nav {
+background: white;
+width:960px;
+height: 60px;
+margin-left: 10%;
+margin-bottom: 20px;
+}
+
+section {
+background: white;
+width: 650px;
+height: 300px;
+margin-left: 10%;
+clear: left;
+}
+
+article {
+position: relative;
+top: 25px;
+left: 15px;
+background: grey;
+color: white;
+width: 620px;
+height: 210px;
+padding-top: 3px;
+}
+
+.headings {
+position: relative;
+top: 30px;
+left: 15px;
+background: white;
+padding-top: 5px;
+width: 590px;
+height: 40px;
+}
+
+p {
+position: relative;
+top: 30px;
+left: 15px;
+background: white;
+width: 590px;
+height: 40px;
+}
+
+aside {
+position: absolute;
+top: 155px;
+right: 240px;
+float: right;
+background: white;
+width: 275px;
+height: 300px;
+}
+
+footer {
+padding-top: 5px;
+margin-left: 10%;
+margin-top: 10px;
+background: white;
+width:960px;
+height: 60px;
+}
